@@ -1,0 +1,12 @@
+C:\Users\a\Desktop\C#\Pong\Pong\Pong\bin\Release\Pong.exe.config
+C:\Users\a\Desktop\C#\Pong\Pong\Pong\bin\Release\Pong.exe
+C:\Users\a\Desktop\C#\Pong\Pong\Pong\bin\Release\Pong.pdb
+C:\Users\a\Desktop\C#\Pong\Pong\Pong\obj\Release\Pong.csproj.CoreCompileInputs.cache
+C:\Users\a\Desktop\C#\Pong\Pong\Pong\obj\Release\Pong.exe
+C:\Users\a\Desktop\C#\Pong\Pong\Pong\obj\Release\Pong.pdb
+C:\Users\Admin\Desktop\Coding\C#\Pong\Pong\Pong\bin\Release\Pong.exe.config
+C:\Users\Admin\Desktop\Coding\C#\Pong\Pong\Pong\bin\Release\Pong.exe
+C:\Users\Admin\Desktop\Coding\C#\Pong\Pong\Pong\bin\Release\Pong.pdb
+C:\Users\Admin\Desktop\Coding\C#\Pong\Pong\Pong\obj\Release\Pong.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Coding\C#\Pong\Pong\Pong\obj\Release\Pong.exe
+C:\Users\Admin\Desktop\Coding\C#\Pong\Pong\Pong\obj\Release\Pong.pdb
